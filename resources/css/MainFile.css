@@ -1,0 +1,10 @@
+.root {
+    -fx-background-color: beige;
+    -fx-background-radius: 28;
+}
+#display {
+    -fx-background-color: lightgreen;
+}
+#equalsBtn {
+    -fx-background-color: indianred;
+}
